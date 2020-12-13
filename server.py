@@ -1,6 +1,6 @@
 import socket
 
-host = "35.202.25.143"
+host = "localhost"
 port = 12345
 
 sunucu = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
